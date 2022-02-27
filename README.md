@@ -3,7 +3,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am [Gregory](https://linkedin.com/in/gregoryoffodum/), a data analyst and intelligent automation developer with a history of succeeding in challenging and team-oriented environments. I build scalable solutions using Robotics Process Automation, Python, Selenium, Flutter, JavaScript and any technology I require to deliver results .
+I am [Gregory](https://linkedin.com/in/gregoryoffodum/), a data analyst and intelligent automation developer with a history of succeeding in challenging and team-oriented environments. I build scalable solutions in Data Analytics, Machine Learning, Robotics Process Automation using Python, Selenium, C#, JavaScript and any technology I require to deliver results .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
