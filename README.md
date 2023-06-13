@@ -3,8 +3,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am Gregory, a Data/ML Engineer with Devops background and a history of succeeding in challenging and team-oriented environments. I build scalable solutions in Data Analytics, Machine Learning, and AI. Experienced in Data Science, Big data technologies, Hadoop, Hive, Apache Spark, Python, SQL, Linux shell scripting. Adept in coding in data science domain with an unbridled passion for ML and other related technologies. Experienced in Scikit-Learn, Tensorflow, PyTorch frameworks while supporting and automating critical deployments using CI/CD best practices. Proficient in Jenkins, Amazon Web 
-Services, Monitoring and Securing, Kubernetes, Git and GitHub using Agile methodology
+I am Gregory, a Devops Engineer with ML background and a history of succeeding in challenging and team-oriented environments. I have a track record in supporting and automating critical deployments across large infrastructure and creating automated solutions for build and deployment processes. Proficient in Jenkins, Amazon Web Services, Monitoring and Securing, Kubernetes, Terraform, Source Code Management applying Agile methodology. I've also built scalable solutions in Data Analytics, Machine Learning, and AI. Experienced in Data Science, ML and Big data technologies.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
