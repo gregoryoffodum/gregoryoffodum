@@ -28,6 +28,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/c3.ai"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/hadoop.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/pytorch.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/k8s.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/docker.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/prometheus.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/ansible.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/terraform.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/jenkns.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/maven.png"></code>
+
 
 
 
