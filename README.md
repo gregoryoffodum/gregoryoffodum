@@ -2,12 +2,13 @@
 </body>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-I am Gregory, a Devops Engineer with ML background and a history of succeeding in challenging and team-oriented environments. I have a track record in supporting and automating critical deployments across large infrastructure and creating automated solutions for build and deployment processes. Proficient in Jenkins, Amazon Web Services, Monitoring and Securing, Kubernetes, Terraform, Source Code Management applying Agile methodology. I've also built scalable solutions in Data Analytics, Machine Learning, and AI. Experienced in Data Science, ML and Big data technologies.
+Data Science
+Devops
+AI
+ML
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
- I have an ever-glowing desire to learn new tools, hence, my versatility in deploying several technologies in data science, AI, digital transformation and software development.
  
  <br />
  
