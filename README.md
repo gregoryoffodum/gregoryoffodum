@@ -18,6 +18,11 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/Apache_Spark_logo.svg.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/C%23.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/tensorflow.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/k8s.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/docker.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/ansible.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/terraform.png"></code>
+<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/jenkins.png"></code>
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/flutter.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/JS.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/script-unix-linux-interface.png"></code>
@@ -28,12 +33,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/c3.ai"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/hadoop.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/pytorch.png"></code>
-<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/k8s.png"></code>
-<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/docker.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/prometheus.png"></code>
-<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/ansible.png"></code>
-<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/terraform.png"></code>
-<code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/jenkns.png"></code>
 <code><img height="50" src="https://github.com/gregoryoffodum/gregoryoffodum/blob/main/maven.png"></code>
 
 
