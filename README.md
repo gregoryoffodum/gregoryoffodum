@@ -1,6 +1,6 @@
 <body style="background-color:red;">
 </body>
-Hi, I'm Gregory with years of experience in Data Engineering, DevOps and SRE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi, I'm Gregory, with years of experience in Data Engineering, DevOps and SRE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
